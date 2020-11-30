@@ -1,3 +1,3 @@
-# Web Programming 111
+# Web Programming 
 
-A short description of the course. Normally this will not be visible, unless the course is aggregated into a portfolio of modules
+Through this module, you well get the understanding on basic concepts of web development
