@@ -1,3 +1,3 @@
-Introduction to Bootstrap
+Why CSS Frameworks - 2
 
-This chapter will introduce you the Bootstrap Framework.
+This chapter will give you the idea of why the CSS Frameworks are needed.
