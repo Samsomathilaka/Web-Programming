@@ -1,3 +1,3 @@
 Bootstrap Lab - 1
 
-Getting started with bootstrap.
+Get the bootstrap, and try all the components mentioned in the document. 
