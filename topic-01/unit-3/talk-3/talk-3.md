@@ -1,3 +1,3 @@
 Responsive Webs 2
 
-This section will introduce you responsive websites.
+The video will show you some examples, and then try to create layouts on the document.
