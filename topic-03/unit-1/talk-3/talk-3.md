@@ -1,3 +1,3 @@
-Installing Joomla 2
+Installing Joomla
 
-Step by step process of Joomla installation.
+Basics of Joomla installation.
