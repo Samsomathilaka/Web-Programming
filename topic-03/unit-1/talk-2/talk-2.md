@@ -1,3 +1,3 @@
-Installing Joomla
+Introduction to CMS
 
-Basics of Joomla installation.
+This chapter will give you the basic idea about CMS.
