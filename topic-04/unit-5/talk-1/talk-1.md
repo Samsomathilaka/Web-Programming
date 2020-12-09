@@ -1,3 +1,3 @@
-PHP Lab 5-6
+PHP+MYSQL
 
-This session is designed to show how to work with foms.
+This session will explain you databases and how the php and Mysql are linked.
